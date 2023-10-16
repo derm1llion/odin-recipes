@@ -1,2 +1,3 @@
 # odin-recipes
-HTML-project-Recipes
+Description: HTML first project
+Name: Recipes
