@@ -1,0 +1,23 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+
+#name {
+    font-size: 40px;
+}
+
+#description,
+#ingredients,
+#directions {
+    font-size: 30px;
+}
+
+.img {
+    height: auto;
+    width: 500px;
+}
+
+
