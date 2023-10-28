@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+body {
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    border: 2px solid black;
+    margin-top: 10px;
+    background-color: burlywood;
+}
+
+div {
+    background-color: red;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 1000;
+    margin-bottom: 8px;
+    background-color: gray;
+    padding: 8px;
+}
+
+ul {
+    padding: 8px;
+    list-style-type: none;
+    font-size: 20px;
+    background-color: silver;
+}
+
+a {
+    display: block;
+}
+
+li:not(:last-child) {
+    margin-bottom: 8px;
+}
